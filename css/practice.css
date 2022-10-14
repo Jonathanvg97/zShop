@@ -1,10 +1,11 @@
+/*estilos para el header*/
 header .row{
     display: flex;
     justify-content: space-between;
     align-content: center;
 }
 
-/* CODIGO USADO PARA ARREGLAR LADOS DEL BODY */
+/* Este  codigo se aplica para ajustar la alineacion del body*/
 .wrap-body {
     display: flex;
     flex-direction: column;
